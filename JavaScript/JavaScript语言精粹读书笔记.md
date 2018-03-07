@@ -43,17 +43,17 @@ stooge["first-name"] //"Joe"
 flight.departure.IATA //"SYD"
 ```
 
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/xpchen-fa/XP-Blog/blob/master/JavaScript/img/%E3%80%8Ajs%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E3%80%8B-3.2.png?raw=true)
 
 ## 3.3更新
 > 使用赋值语句。如果之前没有拥有那个属性，该属性被扩充到对象中。
 
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/xpchen-fa/XP-Blog/blob/master/JavaScript/img/%E3%80%8Ajs%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E3%80%8B-3.3.png?raw=true)
 
 ## 3.4引用
 > 对象通过引用来传递。他们永远不会被拷贝
 
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/xpchen-fa/XP-Blog/blob/master/JavaScript/img/%E3%80%8Ajs%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E3%80%8B-3.4.png?raw=true)
 
 ```
 var a = {}, b = {}, c = {};
@@ -76,7 +76,7 @@ typeof flight.manifest //'undefined'
 typeof flight.toString     //'functiton'
 typeof flight.constructor  //'function'
 ```
-![image](http://note.youdao.com/noteshare?id=fce76892adf27555c351bcf28a7a22da&sub=67E47FD427D44B3391A4F86188AD32D3)
+![image](https://github.com/xpchen-fa/XP-Blog/blob/master/JavaScript/img/%E3%80%8Ajs%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%E3%80%8B-3.6.png?raw=true)
 > hasOwnProperty方法，如果对象拥有独有的属性，它将返回true。hasOwnProperty方法不会检查原型链。
 ```
 flight.hasOwnProperty('number') //true
