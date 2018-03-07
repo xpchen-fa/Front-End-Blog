@@ -65,7 +65,7 @@ a = b = c = {};
 };
 var another_stooge = Object.create(stooge)
 stooge.profession = 'actor';
-another_stooge.profession;      //'actor'
+another_stooge.profession;  //'actor'
  ```
 
 ## 3.6反射
