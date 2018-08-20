@@ -16,3 +16,10 @@ description:  vue学习
 ```
 function initMethods (vm: Component, methods: Object) {}
 ```
+##文件结构
+
+
+*********
+> 阅读了开源的源码分析文章[Vue技术内幕](http://hcysun.me/vue-design/)
+> 参考了染陌的源码注释 [Vue.js 源码解析](https://github.com/answershuto/learnVue)
+> fork了源码 v2.5.17
