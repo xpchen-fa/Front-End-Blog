@@ -3,7 +3,7 @@ title: 踩坑
 date: 2018-08-20 14:41:30
 updated: 2018-08-20 14:41:30
 tags: javascript
-description: instanceof 运算符
+description: 踩坑
 ---
 # 2018-08-20
 
