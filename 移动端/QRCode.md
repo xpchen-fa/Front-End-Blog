@@ -23,17 +23,17 @@ npm install --save qrcode
 
 
 //js中
+import QRCode from "qrcode";
 this.$nextTick(() => {
-    //生成二维码
     const canvas = document.getElementById("canvas");
-
-    QRCode.toCanvas(canvas, "123456", error => {
+    QRCode.toCanvas(canvas, url, {
+        margin: 0
+    }, error => {
         if (error) {
-            this.$logger.log("失败");
+            console.log("失败, 尝试重新生成二维码");
         }
     });
-    this.$logger.log("成功", this.cardminlist);
-})
+});
 
 
 //CSS中
