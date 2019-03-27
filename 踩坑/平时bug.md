@@ -1,10 +1,34 @@
 ---
 title: 踩坑
 date: 2018-08-20 14:41:30
-updated: 2018-09-11 14:41:30
+updated: 2018-12-03 14:41:30
 tags: javascript,vue
 description: 踩坑
 ---
+#2018-12-03
+> 使用element ui框架进行项目开发,表格的列是根据后台数据动态生成的，但是发现在增加列的情况下表格正常，但是一旦表格列减少时就会出问题表格完全空白
+
+```
+//解决在node_modules/element-ui/lib/elementui.common.js 
+removeColumn: function removeColumn(states, column) {
+ var _columns = states._columns;
+ if (_columns) {
+  _columns.splice(_columns.indexOf(column), 1);
+ }
+ //这个函数中_columns是一个数组，column是一个对象，当indexOf匹配不到的时候，返回-1，但是splice函数会执行删除操作，所以必须加入判断。
+ //修改成以下
+ removeColumn: function removeColumn(states, column) {
+ var _columns = states._columns;
+ if (_columns.indexOf(column) != -1) {
+  _columns.splice(_columns.indexOf(column), 1);
+ }
+```
+#2018-12-01
+> flex布局中 justify-content: evenly;存在兼容性问题；在安卓中不适用
+```
+    display: flex;
+    justify-content: evenly;
+```
 #2018-09-19 02
 > beforeRouteUpdate(2.2 新增)
 

@@ -30,7 +30,7 @@ this.$nextTick(() => {
         margin: 0
     }, error => {
         if (error) {
-            this.$logger.log("失败, 尝试重新生成二维码");
+            console.log("失败, 尝试重新生成二维码");
         }
     });
 });
