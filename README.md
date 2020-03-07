@@ -1,5 +1,3 @@
-# XP-Blog
-
 #### 面试
 - [前端笔试面试题](https://github.com/xpchen-fa/XP-Blog/issues/1)
 
