@@ -15,6 +15,10 @@
 - [vue源码学习-1](https://github.com/xpchen-fa/XP-Blog/issues/7)
 - [vue源码学习-2](https://github.com/xpchen-fa/XP-Blog/issues/8)
 
+#### React
+- [手动搭建react+typeScript项目（一）](https://github.com/xpchen-fa/XP-Blog/issues/13)
+- [手动搭建react+typeScript项目（二）](https://github.com/xpchen-fa/XP-Blog/issues/14)
+- [手动搭建react+typeScript项目（三）](https://github.com/xpchen-fa/XP-Blog/issues/15)
 #### JavaScript
 - [《JavaScript语言精粹》-3](https://github.com/xpchen-fa/XP-Blog/issues/10)
 - [《JavaScript语言精粹》-4](https://github.com/xpchen-fa/XP-Blog/issues/11)
