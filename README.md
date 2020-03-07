@@ -1,5 +1,4 @@
 # XP-Blog
-### 用了hexo但是感觉有点麻烦，决定用最简洁的方法写各种学习笔记
 
 #### 面试
 - [前端笔试面试题](https://github.com/xpchen-fa/XP-Blog/issues/1)
