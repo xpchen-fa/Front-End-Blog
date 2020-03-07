@@ -19,6 +19,10 @@
 - [手动搭建react+typeScript项目（一）](https://github.com/xpchen-fa/XP-Blog/issues/13)
 - [手动搭建react+typeScript项目（二）](https://github.com/xpchen-fa/XP-Blog/issues/14)
 - [手动搭建react+typeScript项目（三）](https://github.com/xpchen-fa/XP-Blog/issues/15)
+
+#### TypeScript
+-[认识TypeScript](https://github.com/xpchen-fa/XP-Blog/issues/16)
+
 #### JavaScript
 - [《JavaScript语言精粹》-3](https://github.com/xpchen-fa/XP-Blog/issues/10)
 - [《JavaScript语言精粹》-4](https://github.com/xpchen-fa/XP-Blog/issues/11)
