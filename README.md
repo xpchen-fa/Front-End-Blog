@@ -12,10 +12,11 @@
 - [手动搭建react+typeScript项目（二）](https://github.com/xpchen-fa/XP-Blog/issues/14)
 - [手动搭建react+typeScript项目（三）](https://github.com/xpchen-fa/XP-Blog/issues/15)
 #### JavaScript/TypeScript
--[认识TypeScript](https://github.com/xpchen-fa/XP-Blog/issues/16)
+- [认识TypeScript](https://github.com/xpchen-fa/XP-Blog/issues/16)
 - [《JavaScript语言精粹》-3](https://github.com/xpchen-fa/XP-Blog/issues/10)
 - [《JavaScript语言精粹》-4](https://github.com/xpchen-fa/XP-Blog/issues/11)
 - [《JavaScript语言精粹》-5](https://github.com/xpchen-fa/XP-Blog/issues/12)
 - [深拷贝，浅拷贝](https://github.com/xpchen-fa/XP-Blog/issues/9)
-#### else
+#### 数据分析之路
+- [SQL复习](https://github.com/xpchen-fa/Front-End-Blog/issues/17)
 
