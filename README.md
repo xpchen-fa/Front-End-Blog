@@ -1,3 +1,6 @@
+#### 数据分析之路
+- [SQL复习](https://github.com/xpchen-fa/Front-End-Blog/issues/17)
+- [SQL每日一题](https://github.com/xpchen-fa/Front-End-Blog/issues/18)
 #### 前端
 - [前端笔试面试题](https://github.com/xpchen-fa/XP-Blog/issues/1)
 - [踩坑](https://github.com/xpchen-fa/XP-Blog/issues/2)
@@ -17,6 +20,4 @@
 - [《JavaScript语言精粹》-4](https://github.com/xpchen-fa/XP-Blog/issues/11)
 - [《JavaScript语言精粹》-5](https://github.com/xpchen-fa/XP-Blog/issues/12)
 - [深拷贝，浅拷贝](https://github.com/xpchen-fa/XP-Blog/issues/9)
-#### 数据分析之路
-- [SQL复习](https://github.com/xpchen-fa/Front-End-Blog/issues/17)
 
